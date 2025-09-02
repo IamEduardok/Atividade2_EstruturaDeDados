@@ -83,3 +83,12 @@ pip install graphviz
 4. Entre nas respectivas pastas e execute os arquivos.
 
 
+## 🛠 Tecnologias Utilizadas
+
+- [VS Code](https://code.visualstudio.com/) | Ambiente de desenvolvimento integrado para escrever, ler e executar código do projeto com mais eficiência.
+- [Git Bash](https://git-scm.com/downloads) | Terminal otimizado para controle de versionamento com Git
+
+
+---
+
+<div align="center"> Desenvolvido por Eduardo </div> 
